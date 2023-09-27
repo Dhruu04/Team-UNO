@@ -70,9 +70,9 @@ Showcase the visual aspects of our AI solution through screenshots or videos. If
 ## Get In Touch! 📬
 
 
-| Dhruv Dangi | LinkedIn | Kaggle | Email : dhruvdangi2104@gmail.com |
+| Team Member | LinkedIn | Kaggle | Email |
 |---|---|---|---|
-| Naqibahmed Kadri | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/naqibahmed-kadri/) | [![Kaggle](https://img.shields.io/badge/Kaggle-%2320B2AA.svg?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/nakibahmedkadri) | [naqibahmedkadri@gmail.com](mailto:naqibahmedkadri@gmail.com) |
+| Dhruv Dangi |  |  | [dhruvdangi2104@gmail.com] |
 
 
 
